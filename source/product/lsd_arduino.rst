@@ -1,6 +1,6 @@
 arduino 开发板
 ===================
-.. image:: ../index.assets/lsd_arduino.png
+.. image:: ../product/index.assets/lsd_arduino/lsd_arduino.png
   :width: 300px
 
 概述
@@ -25,7 +25,7 @@ arduino 开发板是用来给开发人员测试验证W600功能的开发板。�
 - 支持串口本地升级和远程固件升级（FOTA）
 - 开发环境支持keil,Eclipse
 
-资料下载
+资料下载(待修改)
 -----------
 :download:`WM_Arduino开发板_使用指导 </upload/product/lsd_arduino/WM_Arduino开发板_使用指导.pdf>` 
 

@@ -2,9 +2,8 @@
 =============
 
 .. toctree::
-   通用资料下载 <./common>
-   AT指令相关下载 </at/download>
-   SoC开发相关下载 </soc/download>
-   vsf相关下载 </third_party/vsf/download>
-   AliOS-Things相关下载 </third_party/alios-things/download>
-   应用笔记</upload/application_note/index>
+   
+   常用调试工具 <tools>
+   soc 相关资料 <soc>
+   兼容版AT资料 <at>
+   wm_at相关资料 <wm_at>

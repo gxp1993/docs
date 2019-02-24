@@ -1,6 +1,6 @@
 TB-01 开发板
 ==============
-.. image:: ../index.assets/tb_01.png
+.. image:: ../product/index.assets/tn_01/tb_01.png
   :width: 300px
 
 概述
@@ -19,6 +19,6 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 .. image:: ../soc/start.assets/tb_01_sch.png
   :width: 600px
 
-其它
+其它（待修改）
 ---------
-硬件资料：https://github.com/w600/tb-01-devkit
+硬件资料：https://github.com/w600/tb-01-devkits
