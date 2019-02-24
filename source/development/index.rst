@@ -5,10 +5,8 @@ W60X 开发资源说明
    :hidden:
 
    兼容版AT开发 <at/index>
-   WM_AT开发 <wm_at/index>
-   SPI透传固件(内容未待更新) <spi_ri/index>
    soc二次开发 <soc/index>
-   arduino开发(内容未更新) <arduino/index>
+   arduino开发<arduino/index>
    rt-thread/index
    alios-things/index
    vsf/index
