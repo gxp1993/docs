@@ -41,8 +41,7 @@ https://downloads.arduino.cc/arduino-nightly-windows.zip），解压路径中不
 ^^^^^^^^^^^^
 
 首次使用当前版本Arduino SDK的用户无法使用Arduino
-IDE进行下载，请先使用星通智联串口调试助手下载开发包根目录下的测试文件
-test.fls。
+IDE进行下载，请先使用星通智联串口调试助手下载开发包根目录下的测试文件 file: test.fls。
 
 .. image:: start.assets/1551061923474.png
 
@@ -54,7 +53,7 @@ Arduino
 IDE默认的下载速率为2Mbps，该速率当前版本无法修改，用户的串口工具的串口芯片如果不支持2Mbps的话，无法直接使用Arduino下载，参考4.1进行下载.
 
 | Arduino IDE编译默认生成的固件路径为
-  C:\Users\17118\AppData\Local\Temp\arduino_build_xxxxx
+  C:/Users/17118/AppData/Local/Temp/arduino_build_xxxxx
 
 .. image:: start.assets/1551062211023.png
 

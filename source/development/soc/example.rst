@@ -17,7 +17,7 @@ W600 SDK参考示例
 为基于 W600 芯片 WMSDK
 进行二次开发的软件开发工程师提供相关功能的代码示例，直接修改对应demo的宏定义，编译即可使用控制台调试。
 
-参考资料：:download:`W600_SDK DEMO运行指南 </upload/sdk/W600_SDK DEMO运行指南.pdf>` 
+参考资料：:download:`W60X_SDK_DEMO使用指导 </download/soc/W60X_SDK_DEMO使用指导.pdf>`  
 
 **优点：**
 
