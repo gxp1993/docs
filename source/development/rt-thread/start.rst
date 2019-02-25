@@ -16,7 +16,7 @@ ARM Cortex-M0 芯片上的极小内核，到中等的 ARM Cortex-M3/4/7
 -  W600_RT-Thread 源码：:download:`RT-Thread_W60X_SDK_0.1.0 </download/soc/RT-Thread_W60X_SDK_0.1.0.zip>` 
 -  Keil环境搭建：`SOC开发入门指导 </development/soc/start>`__
 -  RT-Thread
-   env工具（体验版暂时不需要下载）：https://github.com/RT-Thread/env
+   env工具：https://github.com/RT-Thread/env
 -  串口下载工具：`串口调试助手 </download/tools>`__ 
 -  开发板 TB-01开发板（\ `购买链接 <http://shop.thingsturn.com/>`__\ ）
 
@@ -46,7 +46,7 @@ UM3103-RT-Thread-W60X-SDK 快速上手.pdf 和 UM3101-RT-Thread-W60X-SDK
 
 W600_RT-Thread_SDK（体验版）提供了三个Demo，让用户体验W600_RT-Thread的特别之处，找到目录RT-Thread_W60X_SDK:raw-latex:`\examples`，进入各个Demo中双击project.uvprojx工程文件，直接编译即可（注意，一定要完成2.准备工作中的Keil环境搭建）。
 
-固件生成在RT-Thread_W60X_SDK:raw-latex:`\examples`\\01_basic_led_blink:raw-latex:`\Bin目录下`。
+固件生成在RT-Thread_W60X_SDK\examples\Bin目录下`。
 
 .. image:: start.assets/1551026444198.png
 
