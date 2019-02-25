@@ -12,7 +12,7 @@ W600 与 Arduino
 2.准备工作
 ----------
 
--  arduino开发包: :download:`RT-Thread_W60X_SDK_0.1.0 <soc/RT-Thread_W60X_SDK_0.1.0.zip>` 
+-  arduino开发包: :download:`RT-Thread_W60X_SDK_0.1.0 </download/soc/RT-Thread_W60X_SDK_0.1.0.zip>` 
 -  硬件准备：TB-01开发板（\ `购买链接 <http://shop.thingsturn.com/>`__\ ）
 -  串口下载工具：`串口调试助手 </download/tools>`__ 
 
