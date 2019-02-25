@@ -26,7 +26,7 @@ ARM Cortex-M0 芯片上的极小内核，到中等的 ARM Cortex-M3/4/7
 3.1编译环境搭建
 ~~~~~~~~~~~~~~~
 
-该SDK可以由Keil直接编译，详情参考 Soc二次开发入门指导。
+该SDK可以由Keil直接编译，详情参考 SOC开发入门指导 </development/soc/start>`__
 
 3.2 工程目录介绍
 ~~~~~~~~~~~~~~~~
