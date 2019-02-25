@@ -30,9 +30,9 @@ https://downloads.arduino.cc/arduino-nightly-windows.zip），解压路径中不
 3.2 后续步骤
 ~~~~~~~~~~~~
 
-参考Arduino开发包w600-arduino-InnerIDE-0.2.1:raw-latex:`\w`600-arduino-InnerIDE-0.2.1目录下的《WM_w600-arduino-InnerIDE-instruction_v1.1_190218.pdf》
+参考Arduino开发包w600-arduino-InnerIDE-0.2.1: w600-arduino-InnerIDE-0.2.1目录下的《WM_w600-arduino-InnerIDE-instruction_v1.1_190218.pdf》
 
-另附上一份调试文档，该文档包含了当前版本提供的Demo的详细使用说明，文档路径为Arduino开发包的sdk:raw-latex:`\w`600-arduino-InnerIDE-0.2.1:raw-latex:`\w`600-arduino-InnerIDE-0.2.1:raw-latex:`\hardware`:raw-latex:`\hardware`:raw-latex:`\w`600:raw-latex:`\w`600-arduino-0.2.1:raw-latex:`\doc  `《WM_Arduino-Examples-instruction_v1.2_190125.pdf》
+另附上一份调试文档，该文档包含了当前版本提供的Demo的详细使用说明，文档路径为Arduino sdk开发包的： \w600-arduino-InnerIDE-0.2.1\w600-arduino-InnerIDE-0.2.1\hardware\hardware\w600\w600-arduino-0.2.1\doc 《WM_Arduino-Examples-instruction_v1.2_190125.pdf》
 
 4.注意事项
 ~~~~~~~~~~
