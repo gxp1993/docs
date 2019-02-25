@@ -14,7 +14,7 @@ ARM Cortex-M0 芯片上的极小内核，到中等的 ARM Cortex-M3/4/7
 ----------
 
 -  W600_RT-Thread 源码：:download:`RT-Thread_W60X_SDK_0.1.0 </download/soc/RT-Thread_W60X_SDK_0.1.0.zip>` 
--  Keil环境搭建：`SOC开发入门指导 </development/soc/start>`__
+-  Keil环境搭建：`SOC二次开发入门指导 </development/soc/start>`__
 -  RT-Thread
    env工具：https://github.com/RT-Thread/env
 -  串口下载工具：`串口调试助手 </download/tools>`__ 
@@ -26,7 +26,7 @@ ARM Cortex-M0 芯片上的极小内核，到中等的 ARM Cortex-M3/4/7
 3.1编译环境搭建
 ~~~~~~~~~~~~~~~
 
-该SDK可以由Keil直接编译，详情参考 SOC开发入门指导 </development/soc/start>`__
+该SDK可以由Keil直接编译，详情参考 `SOC开发入门指导 </development/soc/start>`__
 
 3.2 工程目录介绍
 ~~~~~~~~~~~~~~~~
