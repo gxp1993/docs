@@ -12,7 +12,7 @@ APP源码：https://github.com/w600/
 
 串口下载调试助手
 ------------------------
-:download:`ThingsTurn_Serial_Tool </download/tools/ThingsTurn_Serial_Tool.7z>` 
+:download:`ThingsTurn_Serial_Tool </download/tools/ThingsTurn_Serial_Tool.zip>` 
 
 网络调试助手(PC)
 ------------------
