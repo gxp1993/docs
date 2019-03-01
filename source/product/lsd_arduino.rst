@@ -1,5 +1,5 @@
 arduino 开发板
-===================
+==============
 .. image:: ../product/index.assets/lsd_arduino/lsd_arduino.png
   :width: 300px
 
@@ -8,7 +8,7 @@ arduino 开发板
 arduino 开发板是用来给开发人员测试验证W600功能的开发板。该开发板支持标准的 802.11 b/g/n 协议，内置完整的 TCP/IP 协议栈。
 
 特性
-----------
+----
 - 采用Cortex-M3 处理器，主频高达80MHz
 - 内置8Mbit Flash
 - 内置 288KB SRAM，用户可用超过160KB
@@ -25,8 +25,8 @@ arduino 开发板是用来给开发人员测试验证W600功能的开发板。�
 - 支持串口本地升级和远程固件升级（FOTA）
 - 开发环境支持keil,Eclipse
 
-资料下载(待修改)
------------
+资料下载
+--------
 :download:`WM_Arduino开发板_使用指导 </download/product/lsd_arduino/WM_Arduino开发板_使用指导.pdf>` 
 
 :download:`Arduino_Hardware_design_file </download/product/lsd_arduino/Arduino_Hardware_design_file.zip>` 
