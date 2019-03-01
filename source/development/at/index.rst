@@ -6,5 +6,5 @@ AT 开发
 
    start
    example
-   download
+   资料下载 </download/at>
    faq

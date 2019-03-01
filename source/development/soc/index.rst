@@ -6,5 +6,5 @@ SoC 开发
 
    start
    参考示例<example>
-   download
+   资料下载 </download/soc>
    faq

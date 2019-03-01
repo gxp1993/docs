@@ -29,7 +29,7 @@ Cortex-M3 处理器，代码可移植性更强、开发环境友善。
 -  **S D K**\ : `W600 最新SDK <https://github.com/w600/sdk>`__  
 -  **keil工具链**\ : MDK （Keli 开发）
 -  **gcc开发环境**\ : `eclipse + cygwin+ gcc <https://eyun.baidu.com/s/3ghjX5xL>`__
--  **TB-01 开发板**\ （或其它 W600 模组、开发板）
+-  **TB-01 开发板**\ （\ `购买链接 <http://shop.thingsturn.com/>`__\ ）
 -  **Micro USB 线**\ （需支持数据传输）
 
 3 开发板介绍
