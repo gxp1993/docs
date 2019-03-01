@@ -25,8 +25,8 @@ TW-03无线模块是星通智联自主研发设计的一款高性价比Wi-Fi SOC
 - 支持串口本地升级和远程固件升级（FOTA）
 - 开发环境支持keil,Eclipse
 
-资料下载（待修改）
------------
+资料下载
+--------
 :download:`TW-03 规格书 </download/product/tw03/TW-03_产品规格书_V1.5.pdf>` 
 
 :download:`TW-03 封装库 </download/product/tw03/TW-03_Module.zip>` 
