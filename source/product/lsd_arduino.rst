@@ -27,8 +27,8 @@ arduino 开发板是用来给开发人员测试验证W600功能的开发板。�
 
 资料下载(待修改)
 -----------
-:download:`WM_Arduino开发板_使用指导 </upload/product/lsd_arduino/WM_Arduino开发板_使用指导.pdf>` 
+:download:`WM_Arduino开发板_使用指导 </download/product/lsd_arduino/WM_Arduino开发板_使用指导.pdf>` 
 
-:download:`Arduino_Hardware_design_file </upload/product/lsd_arduino/Arduino_Hardware_design_file.zip>` 
+:download:`Arduino_Hardware_design_file </download/product/lsd_arduino/Arduino_Hardware_design_file.zip>` 
 
-:download:`WM_SDK_RGB_Control_Sample </upload/product/lsd_arduino/WM_SDK_RGB_Control_Sample.zip>` 
+:download:`WM_SDK_RGB_Control_Sample </download/product/lsd_arduino/WM_SDK_RGB_Control_Sample.zip>` 
