@@ -47,7 +47,7 @@ RT-Thread 相关资料
 
 Arduino 开发文档
 ----------------
-:download:`w600-arduino-InnerIDE-0.2.1 <soc/w600-arduino-InnerIDE-0.2.2.zip>` 
+:download:`W600_Arduino_SKD <https://eyun.baidu.com/s/3ggdN1wn>`__ 
 
 
 APP开发文档
