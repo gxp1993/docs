@@ -47,7 +47,7 @@ RT-Thread 相关资料
 
 Arduino 开发文档
 ----------------
-:download:`W600_Arduino_SKD <https://eyun.baidu.com/s/3ggdN1wn>`__ 
+W600_Arduino_SKD下载： https://eyun.baidu.com/s/3ggdN1wn
 
 
 APP开发文档
