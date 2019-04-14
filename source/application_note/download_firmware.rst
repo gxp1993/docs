@@ -109,7 +109,7 @@ WM_W600.FLS     支持        不支持          不支持
 
 **样品购买：**\ `https://shop387867913.taobao.com <https://shop387867913.taobao.com/>`__
 
-**在线文档：**\ http://docs.thingsturn.com/start
+**在线文档：**\ http://docs.thingsturn.com/
 
 **技术咨询：**\ support@thingsturn.com
 
