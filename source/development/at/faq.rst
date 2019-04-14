@@ -22,4 +22,4 @@
 4.烧录问题总结
 ------------
 
-`**W600固件烧录指南** <upload/application_note/download_firmware>`__
+`**W600固件烧录指南** </application_note/download_firmware/>`__

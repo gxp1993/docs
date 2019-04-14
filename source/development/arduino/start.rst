@@ -12,7 +12,7 @@ W600 与 Arduino
 2.准备工作
 ----------
 
--  arduino开发包: :download:`w600-arduino-InnerIDE-0.2.1 </download/soc/w600-arduino-InnerIDE-0.2.1.zip>` 
+-  arduino开发包: https://eyun.baidu.com/s/3ggdN1wn
 -  硬件准备：TB-01开发板（\ `购买链接 <http://shop.thingsturn.com/>`__\ ）
 -  串口下载工具：`串口调试助手 </download/tools>`__ 
 

@@ -78,11 +78,7 @@ W600 系列wifi 模组拥有两个版本的AT固件；
 
 参考 `W600_Alios Things 开发入门指导 <alios-things/start>`__；
 
-**六、Python 开发**
-
-参考 `W600_Python 开发入门指导 <python/start>`__；
-
-**七、VSF开发（待更新）**
+**六、VSF开发（待更新）**
 
 参考 W600_VSF 开发入门指导；
 
