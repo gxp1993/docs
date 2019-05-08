@@ -1,64 +1,78 @@
-W600 Arduino 入门教程
+W600 Arduino 入门指南
 =====================
 
 1.简介
 ------
 
-`Arduino <https://baike.baidu.com/item/Arduino>`__\ 是一款便捷灵活、方便上手的开源电子原型平台。
-
-W600 与 Arduino
-的结合，使得W600继承了Arduino的开放性、易用性、交流性、丰富的第三方资源，更便捷的支持开发者进行自己的产品设计。
+`Arduino <https://baike.baidu.com/item/Arduino>`__
+是一款便捷灵活、方便上手的开源电子原型平台。现在，W600芯片可以直接支持Arduino环境开发，开发者可以使用熟悉的Arduino函数和库编写代码，并直接在W600上面运行，无需外部微控制器。让开发者更便捷进行产品设计。
 
 2.准备工作
 ----------
 
--  arduino开发包: https://eyun.baidu.com/s/3ggdN1wn
--  硬件准备：TB-01开发板（\ `购买链接 <http://shop.thingsturn.com/>`__\ ）
--  串口下载工具：`串口调试助手 </download/tools>`__ 
+-  1 x W600 开发板（推荐使用 `TB-01 <http://shop.thingsturn.com>`__\ ）
+-  1 × Micro USB B 电缆
+-  1 × PC（目前仅 Windows 环境可用）
 
 3. 环境搭建
 -----------
 
-3.1 下载arduino ide
-~~~~~~~~~~~~~~~~~~~
+1. 通过 https://www.arduino.cc/en/Main/Software 下载 Arduino IDE
+   开发环境，建议使用最新版本。
+2. 启动
+   Arduino，并打开“首选项”窗口。在附加开发板管理器网址中添加\ ``http://download.thingsturn.com/arduino/stable/package_w600_index.json``
+   
+   .. image:: start.assets/1556334078542.png
 
-开发者可以通过 https://www.arduino.cc/官网下载最新版本 Windows 系统的
-Arduino IDE 开发环境， 建 议 Arduino IDE 版 本 不 低 于 1.8.7 的 免 安
-装 版 （ 一 个 下 载 链 接 为 ：
-https://downloads.arduino.cc/arduino-nightly-windows.zip），解压路径中不要出现空格。
+3. 打开菜单【工具】-》【开发板】-》【开发板管理器】
 
-3.2 后续步骤
-~~~~~~~~~~~~
+.. image:: start.assets/1556334412321.png
 
-参考Arduino开发包w600-arduino-InnerIDE-0.2.1/w600-arduino-InnerIDE-0.2.1目录下的《WM_w600-arduino-InnerIDE-instruction_v1.1_190218.pdf》
+4. 在输入框中填入关键词 ``w600``
+   选择最新版本（\ ``当前为0.2.4``\ ）,点击【安装】
 
-另附上一份调试文档，该文档包含了当前版本提供的Demo的详细使用说明，文档路径为Arduino sdk开发包的： /w600-arduino-InnerIDE-0.2.1/w600-arduino-InnerIDE-0.2.1/hardware/hardware/w600/w600-arduino-0.2.1/doc 《WM_Arduino-Examples-instruction_v1.2_190125.pdf》
-
-4.注意事项
-~~~~~~~~~~
-
-4.1 首次使用
-^^^^^^^^^^^^
-
-首次使用当前版本Arduino SDK的用户无法使用Arduino
-IDE进行下载，请先使用星通智联串口调试助手下载开发包根目录下的测试文件 file: test.fls。
-
-.. image:: start.assets/1551061923474.png
+.. image:: start.assets/1556334650002.png
 
 
-4.2 下载速率
-^^^^^^^^^^^^
-
-Arduino
-IDE默认的下载速率为2Mbps，该速率当前版本无法修改，用户的串口工具的串口芯片如果不支持2Mbps的话，无法直接使用Arduino下载，参考4.1进行下载.
-
-| Arduino IDE编译默认生成的固件路径为
-  C:/Users/17118/AppData/Local/Temp/arduino_build_xxxxx
-
-.. image:: start.assets/1551062211023.png
+.. image:: start.assets/1556335438851.png
 
 
-4.3 其他
-~~~~~~~~
+5. 选择 TB-01 开发板，并配置开发板参数（注意选择正确的通信端口以及速率）
 
-有问题和提供建议的用户，请加QQ群860320067 联系群管理在线解决问题。
+   .. image:: start.assets/1556335475972.png
+
+**Upload
+Speed：**\ 烧录时的通信速率，默认为2Mbps，如果下载失败可选择115200。
+
+**Upload
+Files：**\ 下载文件格式（默认为IMG，如果下载失败或需要更新secboot，可选择FLS）
+
+**端口：**\ 可查看电脑设备管理器进行对应
+
+关于Upload Filesl下载文件格式FLS、IMG的说明，建议参考 `W600固件烧录指南 </application_note/download_firmware/>`__
+
+.. image:: start.assets/28194943723.jpeg
+
+
+6. 选择【文件】-》【示例】，可以尝试一些示例进行烧录测试，如【Blink】
+
+.. image:: start.assets/1556335587121.png
+
+
+7. 点击Upload 进行固件下载
+
+.. image:: start.assets/1556438775082.png
+
+
+8. 运行后效果如下
+
+.. image:: start.assets/1556415104023.png
+
+
+​ 同时，可以看到开发板上面的指示灯在不停的闪烁。
+
+4 其他
+------
+
+有任何疑问和建议，可咨询 support@thingsturn.com 或加QQ群 86032006 沟通。
+
