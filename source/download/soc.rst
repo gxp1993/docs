@@ -7,6 +7,10 @@
 
 :download:`W600_寄存器手册 <soc/W600_寄存器手册.pdf>`
 
+:download:`W601_芯片产品规格书 <soc/W601_芯片产品规格书.pdf>`
+
+:download:`W601_寄存器手册 <soc/W601_寄存器手册.pdf>`
+
 :download:`W60X_ROM功能简述 <soc/W60X_ROM功能简述.pdf>`
 
 :download:`W60X_SECBOOT功能简述 <soc/W60X_SECBOOT功能简述.pdf>` 
@@ -47,7 +51,7 @@ RT-Thread 相关资料
 
 Arduino 开发文档
 ----------------
-W600_Arduino_SKD下载： https://eyun.baidu.com/s/3ggdN1wn
+Arduino 获取链接： https://www.arduino.cc/en/Main/Software
 
 
 APP开发文档
