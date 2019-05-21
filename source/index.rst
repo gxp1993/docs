@@ -102,3 +102,5 @@ W600 特性
    download/index
    application_note/index
    faq/index
+   活动列表 <plan/index>
+   
