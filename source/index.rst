@@ -83,7 +83,7 @@ W600 特性
 
 深圳市星通智联科技有限公司
 
-论坛：http://w600.fun
+文档：http://w600.fun
 
 邮箱：support@thingsturn.com
 
